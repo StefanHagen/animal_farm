@@ -1,0 +1,5 @@
+AllCops/Exclude:
+  - './app/models/animals/**'
+  - './app/models/buildings/**'
+  - './app/models/machines/**'
+  - './app/models/**'
