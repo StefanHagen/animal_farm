@@ -7,6 +7,7 @@ module Buildings
     end
 
     def self.close_door
+      puts "============================"
       puts 'The barn door closes.'
       puts "============================"
     end
