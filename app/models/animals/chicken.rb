@@ -3,6 +3,7 @@ module Animals
     prepend Machines::NewChip
     def enter_barn
       puts "#{name} enters the barn."
+      puts "============================"
     end
   end
 end
