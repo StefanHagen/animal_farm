@@ -1,4 +1,3 @@
-# chicken = Animals::Chicken.new(name: "Henry IV")
 module Animals
   class Chicken < ApplicationRecord
     prepend Machines::NewChip
